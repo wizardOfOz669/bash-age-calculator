@@ -42,4 +42,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🔗 Project Link
 
-[🔗 View on GitHub](https://github.com/yourusername/bash-age-calculator)
+[🔗 View on GitHub](https://github.com/wizardofoz669/bash-age-calculator)
